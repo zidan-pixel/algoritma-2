@@ -1,0 +1,20 @@
+/*
+ * Triananda Zidan Wahyono Putra
+ * Menghitung Luas Lingkaran
+ */
+
+public class TrianandaZidanWahyonoPutra {
+    public static void main(String[] args)
+    {
+        //Deklarasi Variabel
+        double phi = 3.14159;
+        int r = 7;
+        double luas;
+        
+        //Operasi Sistem 
+        luas = phi*r*r;
+        
+        //Cetak Hasil
+        System.out.println("Luas Lingkaran:"+luas);
+    }
+}
