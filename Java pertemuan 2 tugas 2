@@ -1,0 +1,15 @@
+/**
+ * TrianandaZidanWahyonoPutra
+ * MenghitungLuasSegitiga
+ */
+
+public class luassegitiga {
+    public static void main (String[] args) {
+        System.out.println("Luas Segitiga");
+        int a = 14; 
+        int t = 10; 
+        double luas = 0.5 * a * t ; 
+
+        System.out.println("Luas Segitiga : " +luas);
+    }
+}
